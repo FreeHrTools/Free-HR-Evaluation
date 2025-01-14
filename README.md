@@ -48,5 +48,5 @@ Free-HR-Evaluation，员工绩效考核，绩效考评，人工智能，，自�
 - Email:leehear@gmail.com 
 ![image](https://github.com/user-attachments/assets/1da1fbaa-6da9-4b7f-99b9-f9ac6a5bfa39)
 
-# FreeAiMOOC云课堂：关于源码与付费
+# Free-HR-Evaluation云课堂：关于源码与付费
 付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。
