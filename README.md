@@ -41,7 +41,7 @@ Free-HR-Evaluation，员工绩效考核，绩效考评，人工智能，，自�
 
 综上所述，“Free-HR-Evaluation”将致力于成为一款功能全面、用户体验优秀、具有行业影响力的开源员工绩效考核软件，为企业的人力资源管理提供有力支持，助力企业实现人才战略和可持续发展！
 
-# 2025.02.13最新demo链接enjoy😄：待定
+# 2025.02.14最新demo链接enjoy😄：待定
 
 # 📫 How to reach us:
 - 官方WeChat:freeaicc
