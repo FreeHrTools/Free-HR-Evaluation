@@ -44,11 +44,12 @@ Free-HR-Evaluation，员工绩效考核，绩效考评，人工智能，，自�
 # 2025.03.02最新demo链接enjoy😄：待定
 
 # 📫 How to reach us:
-- 官方WeChat:freeaicc
+- 官方WeChat:David_Li_Haiya
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
 - Skype UserID：live:.cid.fedb411de91d9b
 - Email:leehear@gmail.com 
-![image](https://github.com/user-attachments/assets/1da1fbaa-6da9-4b7f-99b9-f9ac6a5bfa39)
+![image](https://github.com/user-attachments/assets/74fbf51c-b397-4ccb-a776-bf2cd630eb8f)
+
 
 # Free-HR-Evaluation绩效考核系统：关于源码与付费
 付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。
