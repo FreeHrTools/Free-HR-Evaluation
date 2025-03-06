@@ -1,5 +1,5 @@
 # Free-HR-Evaluation绩效考核系统
-Free-HR-Evaluation，员工绩效考核，绩效考评，人工智能，，自动化考核系统，HR管理软件，员工评估工具，数据分析与报告，云端绩效考核，绩效改进建议等！!
+Free-HR-Evaluation，员工绩效考核，绩效考评，人工智能，，自动化考核系统，HR管理软件，员工评估工具，数据分析与报告，云端绩效考核，绩效改进建议等!!!
 
 # Free-HR-Evaluation绩效考核系统：基本功能
 
@@ -44,14 +44,14 @@ Free-HR-Evaluation，员工绩效考核，绩效考评，人工智能，，自�
 # 2025.03.06最新demo链接enjoy😄：待定
 
 # 📫 How to reach us:
-- 官方WeChat:David_Li_Haiya
+- 官方WeChat:扫码下侧的企业微信二维码即可（可对公签合同，更有保障）
 - Skype：https://join.skype.com/invite/rVbQH1igkQwV
 - Skype UserID：live:.cid.fedb411de91d9b
-- Email:leehear@gmail.com 
-![image](https://github.com/user-attachments/assets/74fbf51c-b397-4ccb-a776-bf2cd630eb8f)
+- Email:leehear@gmail.com
 
+![easyaicc-企业微信二维码](https://github.com/user-attachments/assets/823cf631-15cb-4cd4-bcae-8d1643ea3151)
 
 # Free-HR-Evaluation绩效考核系统：关于源码与付费
 付费购买源代码对应模块之后，可自用，可商用，你购买源代码之后，我方会安排对你进行一次源代码培训。
 
-# 😄价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！！！
+# 😄价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！
